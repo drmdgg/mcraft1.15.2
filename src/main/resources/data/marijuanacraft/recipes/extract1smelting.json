@@ -1,0 +1,25 @@
+{
+
+  "type": "marijuanacraft:purging",
+
+  "ingredient": {
+
+    "item": "marijuanacraft:marijuana_bud",
+        "item2": "marijuanacraft:mseed"
+    
+
+  },
+
+  "result": {
+
+    "item": "marijuanacraft:extract2",
+
+    "count": 1
+
+  },
+
+  "experience": 0.35,
+
+  "processtime": 150
+
+}

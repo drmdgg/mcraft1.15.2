@@ -1,0 +1,5 @@
+{
+	"recipes" : {
+		"purging": "drmdgg.marijuanacraft.recipes.VORecipeSerializer"
+	}
+}

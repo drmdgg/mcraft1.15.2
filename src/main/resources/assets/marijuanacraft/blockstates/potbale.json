@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "marijuanacraft:block/potbale" },
+        "axis=z": { "model": "marijuanacraft:block/potbale", "x": 90 },
+        "axis=x": { "model": "marijuanacraft:block/potbale", "x": 90, "y": 90 }
+    }
+}

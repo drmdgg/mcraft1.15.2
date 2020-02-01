@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "marijuanacraft:empty_can" },
+		{ "item": "marijuanacraft:compressed_butane" }
+	],
+	"result": { "item": "marijuanacraft:butane_can",
+	"count": 1
+	}
+}

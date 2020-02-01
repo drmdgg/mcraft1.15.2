@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "marijuanacraft:alcmix1" },
+	"result": "marijuanacraft:alcmix2",
+	"experience": 2.3,
+	"cookingtime": 150
+}

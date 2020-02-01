@@ -1,0 +1,12 @@
+{
+  "type": "marijuanacraft:purging",
+  "ingredient": {
+    "item": "marijuanacraft:extract2"
+  },
+  "result": {
+    "item": "marijuanacraft:shatter",
+    "count": 1
+  },
+  "experience": 0.35,
+  "processtime": 198
+}

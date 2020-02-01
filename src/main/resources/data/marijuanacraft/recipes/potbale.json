@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"SSS",
+		"III",
+		"SSS"
+	],	
+	
+	"key":
+	{
+		"I": { "item": "marijuanacraft:potleaves" },
+		"S": { "item": "marijuanacraft:marijuana_stalk" }
+		
+	
+	},
+	
+	"result": { "item": "marijuanacraft:potbale",
+	"count": 1 }
+	
+}

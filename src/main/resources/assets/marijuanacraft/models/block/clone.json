@@ -1,0 +1,13 @@
+
+
+{
+
+    "parent": "block/cross",
+
+    "textures": {
+
+        "cross": "marijuanacraft:block/clone"
+
+    }
+
+}

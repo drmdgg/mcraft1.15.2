@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"f",
+		"w",
+		"e"
+	],	
+	
+	"key":
+	{
+		"f": { "item": "marijuanacraft:fermp" },
+		"w": { "item": "minecraft:water_bucket" },
+		"e": { "item": "minecraft:glass_bottle" }
+	},
+	
+	"result": { "item": "marijuanacraft:alcmix1",
+	"count": 1 }
+	
+}

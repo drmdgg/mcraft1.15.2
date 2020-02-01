@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "marijuanacraft:block/mplant_stage0" },
+        "age=1": { "model": "marijuanacraft:block/mplant_stage1" },
+        "age=2": { "model": "marijuanacraft:block/mplant_stage2" },
+        "age=3": { "model": "marijuanacraft:block/mplant_stage3" },
+        "age=4": { "model": "marijuanacraft:block/mplant_stage4" },
+        "age=5": { "model": "marijuanacraft:block/mplant_stage5" },
+        "age=6": { "model": "marijuanacraft:block/mplant_stage6" },
+        "age=7": { "model": "marijuanacraft:block/mplant_stage7" }
+    }
+}

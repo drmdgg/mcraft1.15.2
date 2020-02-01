@@ -1,0 +1,76 @@
+{
+	"item.marijuanacraft.alcmix1": "Alcohol Mixture",
+	"item.marijuanacraft.alcmix2": "Alcohol Mixture 2",
+	"item.marijuanacraft.mseed": "Marijuana Seed",
+	"item.marijuanacraft.marijuana_bud": "Marijuana Bud",
+	"item.marijuanacraft.plastic_pen": "Plastic Pen",
+	"item.marijuanacraft.plastic_bottle": "Plastic Bottle",
+	"item.marijuanacraft.metal_bowl": "Bong Bowl",
+	"item.marijuanacraft.pot_cookie": "Pot Cookie",
+	"item.marijuanacraft.apple_bong": "Apple Bong",
+	"item.marijuanacraft.weed_butter": "Weed Butter",
+	"item.marijuanacraft.butane_bottle": "Butane Bottle",
+	"item.marijuanacraft.compressed_butane": "Compressed Butane",
+	"item.marijuanacraft.baked_apple": "Baked Apple",
+	"item.marijuanacraft.butane_can": "Butane Can",
+	"item.marijuanacraft.cream": "Cream",
+	"item.marijuanacraft.crystal": "Crystal",
+	"item.marijuanacraft.empty_can": "Empty Can",
+	"item.marijuanacraft.fabric": "Fabric",
+	"item.marijuanacraft.fermp": "Fermented Potato",
+	"item.marijuanacraft.hash": "Hash",
+	"item.marijuanacraft.hashbrow": "Hash Brownie",
+	"item.marijuanacraft.hashbut": "Hash Butter",
+	"item.marijuanacraft.plastic_bong": "Plastic Bong",
+	"item.marijuanacraft.sifter": "Sifter",
+	"item.marijuanacraft.valve": "Valve",
+	"item.marijuanacraft.mplant": "Marijuana Plant",
+	"item.marijuanacraft.marijuana_stalk": "Marijuana Stalk",
+	"item.marijuanacraft.butter": "Butter",
+	"item.marijuanacraft.dial": "Dial",
+	
+
+	"item.marijuanacraft.extract2": "Extract",
+	"item.marijuanacraft.shatter": "Shatter",
+	"item.marijuanacraft.centaur_hide": "Centaur Hide",
+	
+	
+	"block.marijuanacraft.mplant": "Marijuana Plant",
+	"block.marijuanacraft.bulb": "Grow Light",
+	"block.marijuanacraft.tblock": "Trash Block",
+	"block.marijuanacraft.butane": "Butane",
+	"block.marijuanacraft.column": "Column",
+	"block.marijuanacraft.potbale": "Pot Bale",
+	"block.marijuanacraft.vacuumoven": "Vacuum Oven",
+	"block.marijuanacraft.potstalk": "Pot Stalk",
+	"block.marijuanacraft.potleaves": "Pot Leaves",
+	"block.marijuanacraft.clone": "Clone",
+	"block.marijuanacraft.churn": "Butter Churn",
+	
+	
+	"item.marijuanacraft.crack_head_egg": "Crack Head Spawn Egg",
+	"item.marijuanacraft.centaur_egg": "Centaur Spawn Egg",
+	"item.marijuanacraft.little_egg": "Little Person Spawn Egg",
+	"item.marijuanacraft.deer_egg": "Deer Spawn Egg",
+	"item.marijuanacraft.luna_egg": "Luna Dog Spawn Egg",
+	"item.marijuanacraft.ghost_egg": "Ghost Spawn Egg",
+	"item.marijuanacraft.hemp_scissors": "Hemp Scissors",
+	"item.marijuanacraft.hemp_hoe": "Hemp Hoe",
+	
+	"itemgroup.marijuanacraft.marijuanaitems": "MarijuanaCraft Items",
+	
+	"item.marijuanacraft.flower_crown": "Flower Crown of Photosynthesis",
+	"item.marijuanacraft.flower_shirt": "Flower Shirt",
+	"item.marijuanacraft.flower_pants": "Flower Pants",
+	"item.marijuanacraft.flower_boots": "Flower Boots",
+	
+	"entity.marijuanacraft.crack_head": "Crack Head",
+	"entity.marijuanacraft.centaur": "Centaur",
+	"entity.marijuanacraft.luna": "Luna",
+	"entity.marijuanacraft.little_person": "Little Person",
+	"entity.marijuanacraft.deer": "Deer",
+	
+	"tile.marijuanacraft.pot_stalk": "Pot Stalk",
+	
+	"effect.marijuanacraft.stoned": "Stoned"
+	}

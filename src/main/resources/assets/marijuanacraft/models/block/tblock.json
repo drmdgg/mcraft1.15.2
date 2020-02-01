@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "marijuanacraft:block/tblock_top",
+        "side": "marijuanacraft:block/tblock_side"
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"p n",
+		" ab",
+		"   "
+	],	
+	
+	"key":
+	{
+		"a": { "item": "minecraft:apple" },
+		"b": { "item": "marijuanacraft:metal_bowl" },
+		"p": { "item": "marijuanacraft:plastic_pen" },
+		"n": { "item": "marijuanacraft:marijuana_bud" }
+		},
+	
+	"result": { "item": "marijuanacraft:apple_bong",
+	"count": 1 }
+}

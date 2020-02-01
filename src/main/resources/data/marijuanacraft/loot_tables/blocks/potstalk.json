@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 6,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "marijuanacraft:marijuana_bud",
+					"weight": 1
+				},
+				{
+					"type": "minecraft:item",
+					"name": "marijuanacraft:marijuana_stalk",
+					"weight": 2
+					
+				}
+			]
+		}
+	]
+}

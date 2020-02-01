@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" b ",
+		"mwm",
+		"ece"
+	],	
+	
+	"key":
+	{
+		"b": { "item": "marijuanacraft:weed_butter" },
+		"m": { "item": "minecraft:milk_bucket" },
+		"w": { "item": "minecraft:wheat" },
+		"e": { "item": "minecraft:egg" },
+		"c": { "item": "minecraft:cocoa_beans" }
+	},
+	
+	"result": { "item": "marijuanacraft:pot_cookie",
+	"count": 3 }
+}

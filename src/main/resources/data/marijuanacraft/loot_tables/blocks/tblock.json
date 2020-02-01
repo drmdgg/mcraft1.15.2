@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "marijuanacraft:plastic_pen",
+					"weight": 1,
+					"count": 2
+				},
+				{
+					"type": "minecraft:item",
+					"name": "marijuanacraft:dial",
+					"weight": 2,
+					"count": 2
+				}
+			]
+		}
+	]
+}

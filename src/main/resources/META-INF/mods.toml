@@ -1,0 +1,31 @@
+modLoader="javafml" #mandatory
+loaderVersion="[30,)" #mandatory (28 is current forge version)
+[[mods]] #mandatory
+modId="marijuanacraft"
+version="2.1.0" #mandatory
+displayName="MarijuanaCraft"
+logoFile="examplemod.png" #optional
+credits="The guys at Forge Modder Support: AnimeFan8888, Draco18s. The People on the Harry(Talks) Discord: ZippyMagician, Cadiboo (HUGE THANKS), and Harry himself for making the tutorials I followed" #optional
+authors="DrMDGG" #optional
+description='''
+Growing Marijuana, making extract and hash, new entities, and fun.
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.marijuanacraft]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[30,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.marijuanacraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

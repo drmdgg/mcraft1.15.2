@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "marijuanacraft:marijuana_bud" },
+		{ "item": "marijuanacraft:sifter" }
+	],
+	"result": { "item": "marijuanacraft:crystal",
+	"count": 3
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"iii",
+		"idi",
+		"iii"
+	],	
+	
+	"key":
+	{
+		"d": { "item": "marijuanacraft:dial" },
+		"i": { "item": "minecraft:iron_nugget" }
+		
+	},
+	
+	"result": { "item": "marijuanacraft:valve",
+	"count": 1 }
+	
+}

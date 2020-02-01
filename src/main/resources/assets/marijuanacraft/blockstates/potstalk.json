@@ -1,0 +1,15 @@
+
+
+{
+
+    "variants": {
+
+        "axis=y":  { "model": "marijuanacraft:block/potstalk" },
+
+        "axis=z":   { "model": "marijuanacraft:block/potstalk", "x": 90 },
+
+        "axis=x":   { "model": "marijuanacraft:block/potstalk", "x": 90, "y": 90 }
+
+    }
+
+}

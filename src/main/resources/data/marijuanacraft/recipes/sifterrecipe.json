@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" f ",
+		"s s",
+		" s "
+	],	
+	
+	"key":
+	{
+		"s": { "item": "minecraft:stick" },
+		"f": { "item": "marijuanacraft:fabric" }
+		},
+	
+	"result": { "item": "marijuanacraft:sifter",
+	"count": 1 }
+}

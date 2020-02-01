@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"IIV",
+		"III"
+	],	
+	
+	"key":
+	{
+		"I": { "item": "minecraft:iron_ingot" },
+		"V": { "item": "marijuanacraft:valve" }
+		
+	
+	},
+	
+	"result": { "item": "marijuanacraft:vacuumoven",
+	"count": 1 }
+	
+}

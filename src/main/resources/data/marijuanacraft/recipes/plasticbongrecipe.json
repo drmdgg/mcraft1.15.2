@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" bn",
+		"sp ",
+		"   "
+	],	
+	
+	"key":
+	{
+		"b": { "item": "marijuanacraft:metal_bowl" },
+		"s": { "item": "marijuanacraft:plastic_pen" },
+		"p": { "item": "marijuanacraft:plastic_bottle" },
+		"n": { "item": "marijuanacraft:marijuana_bud" }
+		},
+	
+	"result": { "item": "marijuanacraft:plastic_bong",
+	"count": 1 }
+}

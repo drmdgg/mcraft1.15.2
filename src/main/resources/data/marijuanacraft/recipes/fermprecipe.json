@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" w ",
+		" p ",
+		" b "
+	],	
+	
+	"key":
+	{
+		"w": { "item": "minecraft:water_bucket" },
+		"p": { "item": "minecraft:potato" },
+		"b": { "item": "minecraft:glass_bottle" }
+		},
+	
+	"result": { "item": "marijuanacraft:fermp",
+	"count": 1 }
+}

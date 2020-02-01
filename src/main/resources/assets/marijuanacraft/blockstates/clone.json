@@ -1,0 +1,14 @@
+
+{
+
+    "variants": {
+
+        "stage=0": { "model": "marijuanacraft:block/clone" },
+
+		"stage=1": { "model": "marijuanacraft:block/clone" }
+
+
+
+    }
+
+}

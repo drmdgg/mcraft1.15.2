@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "marijuanacraft:crystal" },
+		{ "item": "marijuanacraft:butter" }
+	],
+	"result": { "item": "marijuanacraft:weed_butter",
+	"count": 1 }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "marijuanacraft:block/mplant_stage4"
+    }
+}
